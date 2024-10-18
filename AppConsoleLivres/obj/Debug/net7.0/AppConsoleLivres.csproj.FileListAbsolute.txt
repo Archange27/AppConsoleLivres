@@ -1,0 +1,14 @@
+D:\AppConsoleLivres\AppConsoleLivres\bin\Debug\net7.0\AppConsoleLivres.exe
+D:\AppConsoleLivres\AppConsoleLivres\bin\Debug\net7.0\AppConsoleLivres.deps.json
+D:\AppConsoleLivres\AppConsoleLivres\bin\Debug\net7.0\AppConsoleLivres.runtimeconfig.json
+D:\AppConsoleLivres\AppConsoleLivres\bin\Debug\net7.0\AppConsoleLivres.dll
+D:\AppConsoleLivres\AppConsoleLivres\bin\Debug\net7.0\AppConsoleLivres.pdb
+D:\AppConsoleLivres\AppConsoleLivres\obj\Debug\net7.0\AppConsoleLivres.GeneratedMSBuildEditorConfig.editorconfig
+D:\AppConsoleLivres\AppConsoleLivres\obj\Debug\net7.0\AppConsoleLivres.AssemblyInfoInputs.cache
+D:\AppConsoleLivres\AppConsoleLivres\obj\Debug\net7.0\AppConsoleLivres.AssemblyInfo.cs
+D:\AppConsoleLivres\AppConsoleLivres\obj\Debug\net7.0\AppConsoleLivres.csproj.CoreCompileInputs.cache
+D:\AppConsoleLivres\AppConsoleLivres\obj\Debug\net7.0\AppConsoleLivres.dll
+D:\AppConsoleLivres\AppConsoleLivres\obj\Debug\net7.0\refint\AppConsoleLivres.dll
+D:\AppConsoleLivres\AppConsoleLivres\obj\Debug\net7.0\AppConsoleLivres.pdb
+D:\AppConsoleLivres\AppConsoleLivres\obj\Debug\net7.0\AppConsoleLivres.genruntimeconfig.cache
+D:\AppConsoleLivres\AppConsoleLivres\obj\Debug\net7.0\ref\AppConsoleLivres.dll
