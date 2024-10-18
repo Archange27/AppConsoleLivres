@@ -20,7 +20,8 @@ namespace AppConsoleLivres
         public override void AfficherDetail()
         {
 
-            Console.WriteLine($"Genre: {Genre}");
+           Console.WriteLine($"Titre: {Titre}, Auteur: {Auteur}, Pages: {NombrePages}, Genre: {Genre}");
+
         }
     }
 }
