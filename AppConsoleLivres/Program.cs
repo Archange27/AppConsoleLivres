@@ -6,11 +6,15 @@ internal class Program
        List<Livre> list = new List<Livre>();
         Roman roman1 = new Roman("Le Banquier du diable", "Jean François Bouchard", 284, 978, 2015);
         Roman roman2 = new Roman("un Boy à Pretoria", "Zamenga Batukezanga", 143, 9785, 1990);
-        Roman roman3 = new Roman("Un croco à Luwozi", "Zamenga", 150, 988, 1989);
+
+        Revue footRevue = new Revue("FootMercato", "Younes Boukouchi", 120, 2023, 5);
+        Revue basketRevue = new Revue("WashingtonPost", "Archange Tshikaya", 110, 2022, 8);
+
 
         list.Add(roman1);
         list.Add(roman2);
-        list.Add(roman3);
+        list.Add(footRevue);
+        list.Add(basketRevue);
 
         Console.WriteLine("Liste de livres : ");
         foreach (Livre livre in list)
